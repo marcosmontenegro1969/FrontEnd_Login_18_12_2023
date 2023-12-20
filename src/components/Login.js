@@ -134,6 +134,7 @@ function Login() {
           <div className='login-Formulario'> {/*div para envolver o formulário de login*/}
             <h2 className='h2_bem-vindo'>Seja bem-vindo ao CanGame edu</h2>
             <form className='input_Container'> {/*Formulário de login com 2 inputs, 1 <p> e um botão*/}
+              
               <InputLogin 
                 type="text"
                 name="nome"
